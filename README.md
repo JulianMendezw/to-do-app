@@ -1,4 +1,4 @@
-# Getting Started with To Do App
+# Getting Started with To Do APP
 
 You need to install node v20.13.0
 
