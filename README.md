@@ -1,3 +1,7 @@
+![chrome_K6ExSqL4Wc](https://github.com/JulianMendezw/to-do-app/assets/7661539/663d8b78-2ee5-4525-8999-162f71632ee5)
+
+This is a to do app, you can add, check and deleted tasks.
+
 # Getting Started with To Do APP
 
 You need to install node v20.13.0
